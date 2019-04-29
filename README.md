@@ -1,2 +1,2 @@
-# C++PrimerPlusPractice
-C++PrimerPlus ╣заЫ╟Ф жпнд╟Ф ©н╨Со╟лБ
+О╩©# C++PrimerPlusPractice
+C++PrimerPlus Г╛╛Е┘╜Г┴┬ Д╦╜Ф√┤Г┴┬ Х╞╬Е░▌Д╧═И╒≤
